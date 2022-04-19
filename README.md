@@ -5,6 +5,8 @@
 
 ![image title](https://rushter.com/counter.svg)
 
+(https://rushter.com/counter.svg)
+
 
 <!---
 butt-head/butt-head is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
